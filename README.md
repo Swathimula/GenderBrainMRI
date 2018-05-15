@@ -2,7 +2,7 @@
 
 Project Title: Using Machine learning to determine Gender from Brain MRI  
 
-This repo contains the code, results, and reference for this project.
+This repo contains the code, results, and references for this project.
 
 Directories:
 
